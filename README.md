@@ -34,7 +34,7 @@ Manual testing helps to:
 
 # 🔄 SDLC vs STLC
 
-## SDLC — Software Development Life Cycle
+## SDLC - Software Development Life Cycle
 
 Software development process:
 
