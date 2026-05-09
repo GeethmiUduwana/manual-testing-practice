@@ -47,7 +47,7 @@ Software development process:
 
 ---
 
-## STLC — Software Testing Life Cycle
+## STLC - Software Testing Life Cycle
 
 Software testing process:
 
