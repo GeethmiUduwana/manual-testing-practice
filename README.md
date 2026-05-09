@@ -107,7 +107,7 @@ Developer fixes login bug → tester checks login and related features again.
 
 ---
 
-## 🚬 Smoke Testing
+##  Smoke Testing
 
 Basic testing to verify whether the build is stable.
 
