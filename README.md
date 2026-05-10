@@ -32,7 +32,7 @@ Manual testing helps to:
 
 ---
 
-# 🔄 SDLC vs STLC
+# 🔄 SDLC vs STLC.
 
 ## SDLC - Software Development Life Cycle
 
