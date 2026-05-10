@@ -1,4 +1,4 @@
-# 🧪 Manual Testing Basics
+# 🧪 Manual Testing Basics.
 
 This repository contains beginner-friendly notes and concepts about **Manual Testing** in Software Quality Assurance (QA).
 
